@@ -1,6 +1,5 @@
 <!-- <img src="https://i.pinimg.com/originals/df/0e/ff/df0eff785a1e674a7cc51fb08920af9d.gif"/> -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jumadi-cloud.jumadi-cloud&color=72D1AF)
 
 - 👋 Hi, I’m <a href="https://github.com/jumadi-cloud"> Jumadi </a>
 - 👀 I’m interested in Data Science and Web Development
